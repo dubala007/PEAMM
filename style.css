@@ -153,10 +153,6 @@
   .nav-tabs>li>a:hover, .nav-tabs>li>a:focus, .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus, .nav-tabs .open>a, .nav-tabs .open>a:hover, .nav-tabs .open>a:focus{
     padding-bottom: 6px;
   }
-  /*#adsense_top_ad {
-    margin-bottom: 5px;
-    margin-top: -8px;    
-  }*/
   textarea{
     font-size: 16px;
   }
